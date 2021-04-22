@@ -1,3 +1,3 @@
 # simplePaint
 Painting Board made with VanillaJS
-(https://img.shields.io/badge/simplePaint?style=flat&logo=javascript)(https://jdentity.github.io/simplePaint/)
+[![](https://img.shields.io/badge/-simplePaint?style=flat&colorA=0a0a0a&logo=JavaScript)](https://jdentity.github.io/simplePaint/)
