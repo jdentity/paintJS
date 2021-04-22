@@ -55,9 +55,25 @@ body {
 .controls__colors .controls__color {
   width: 50px;
   height: 50px;
+  margin: 3px;
   border-radius: 25px;
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.controls__colors .controls__color:hover {
+  width: 54px;
+  height: 54px;
+  border-radius: 27px;
+  margin: 1px;
+}
+
+.controls__colors .selected {
+  width: 54px;
+  height: 54px;
+  border-radius: 27px;
+  margin: 1px;
+  transform: translateY(4px);
 }
 
 .controls .controls__range {
